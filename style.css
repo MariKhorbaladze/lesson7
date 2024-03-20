@@ -1,0 +1,93 @@
+body { 
+    background-color: #F5D3AB;
+}
+
+
+.describe-text { 
+font-weight: 400;
+ font-style: normal;
+font-family: "Truculenta", sans-serif;
+width: 127px;
+height: 32px;
+margin-left: 135px;
+margin-top: 39px;
+gap: 0px;
+opacity: 0px;
+font-size: 16px;
+font-weight: 400;
+line-height: 32px;
+letter-spacing: 3px;
+text-align: left;
+
+}
+      
+      
+
+
+.ultra-regular {
+    font-family: "Ultra", serif;
+    font-weight: 400;
+    font-style: normal;
+    width: 519px;
+height: 128px;
+margin-left: 135px;
+gap: 0px;
+opacity: 0px;
+
+  }
+
+
+.truculenta-text {
+  font-family: "Truculenta", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700px;
+font-size: 56px;
+font-weight: 700;
+line-height: 64px;
+text-align: left;
+color: #171B1B;
+
+}
+  
+
+.homemade { 
+width: 770px;
+height: 448px;
+margin-left: 135px;
+gap: 0px;
+opacity: 0px;
+
+}
+
+.class { 
+width: 62px;
+height: 32px;
+margin-left: 183px;
+font-family: "Ultra", serif;
+font-family: "Truculenta", sans-serif;
+font-size: 16px;
+font-weight: 400;
+line-height: 32px;
+letter-spacing: 3px;
+text-align: left;
+color: white;
+}
+
+.description { 
+    font-family: "Ultra", serif;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 48px;
+    text-align: left;
+    color: white;
+    width: 294px;
+    height: 96px;
+    margin-left: 183px;
+    gap: 0px;
+    opacity: 0px;
+}
+
+.z-items { 
+    position: absolute;
+    z-index:-1;
+}
