@@ -54,23 +54,24 @@ color: #171B1B;
 width: 770px;
 height: 448px;
 margin-left: 135px;
-gap: 0px;
-opacity: 0px;
 
 }
 
 .class { 
+  font-style: normal;
+ font-family: "Truculenta", sans-serif;
 width: 62px;
 height: 32px;
-margin-left: 183px;
-font-family: "Ultra", serif;
-font-family: "Truculenta", sans-serif;
-font-size: 16px;
-font-weight: 400;
-line-height: 32px;
-letter-spacing: 3px;
-text-align: left;
-color: white;
+ margin-left: 183px;
+ margin-top: 39px;
+ gap: 0px;
+ opacity: 0px;
+ font-size: 16px;
+ font-weight: 400;
+ line-height: 32px;
+ letter-spacing: 3px;
+ text-align: left;
+ color: white;
 }
 
 .description { 
@@ -90,4 +91,192 @@ color: white;
 .z-items { 
     position: absolute;
     z-index:-1;
+}
+
+
+
+.smallest1 { 
+  font-family: "DM Sans", sans-serif;
+  font-optical-sizing: auto;
+  width: 322px;
+  height: 68px;
+  margin-left: 183px;
+  gap: 0px;
+  opacity: 0px;
+  font-family: DM Sans;
+font-size: 16px;
+font-weight: 400;
+line-height: 32px;
+text-align: left;
+color: #FFFFFF80;
+
+  
+}
+
+
+.price-item { 
+  font-family: "Ultra", serif;
+  width: 54px;
+height: 48px;
+margin-left: 803px;
+font-size: 40px;
+font-weight: 700;
+line-height: 48px;
+text-align: right;
+color: white;
+}
+
+
+.bread-item { 
+  width: 370px;
+height: 304px;
+margin-left: 35px;
+gap: 0px;
+opacity: 0px;
+}
+
+.flex-img { 
+ display: flex;
+
+}
+
+.flex-txt {
+  font-style: normal;
+ font-family: "Truculenta", sans-serif;
+width: 62px;
+height: 32px;
+ margin-left: 183px;
+ font-size: 16px;
+ font-weight: 400;
+ line-height: 32px;
+ letter-spacing: 3px;
+ text-align: left;
+ color: black;
+ margin-right: 195px;
+ 
+}
+
+
+.text { 
+  display: inline-block;
+  text-align: center;
+  width: 120px;
+}
+
+
+
+.container {
+  display: flex;
+}
+
+.photo {
+  margin-right: 20px; 
+  width: 370px;
+height: 304px;
+margin-left: 135px;
+
+}
+
+.photo img {
+  max-width: 100%; 
+  display: block;
+}
+
+.text-under {
+    font-style: normal;
+  font-family: "Truculenta", sans-serif;
+  font-size: 14px; 
+  color: black; 
+  margin-top: 5px; 
+ width: 62px;
+ height: 32px;
+margin-left: 35px;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 32px;
+  letter-spacing: 3px;
+  text-align: left;
+  color: black;
+
+
+}
+.dollar { 
+  font-family: "Ultra", serif;
+  width: 55px;
+height: 48px;
+margin-left: 418px;
+font-size: 40px;
+font-weight: 700;
+line-height: 48px;
+text-align: right;
+color: black;
+
+
+}
+
+
+
+
+.txt { 
+  font-style: normal;
+  font-family: "Truculenta", sans-serif;
+  width: 52px;
+height: 32px;
+margin-left: 967px;
+font-size: 24px;
+font-weight: 400;
+line-height: 32px;
+text-align: left;
+
+
+}
+
+
+.button { 
+  width: 170px;
+height: 48px;
+margin-left: 635px;
+margin-top: 85%;
+background-color: transparent;
+}
+
+
+.side-txt {
+  font-style: normal;
+  font-family: "Truculenta", sans-serif;
+  width: 52px;
+height: 32px;
+margin-top: 25%;
+font-size: 24px;
+font-weight: 400;
+line-height: 32px;
+margin-bottom: 25px;
+margin-right: 25px;
+
+
+}
+
+
+.side { 
+   font-style: normal;
+  font-family: "Truculenta", sans-serif;font-size: 16px;
+  font-weight: 400;
+  line-height: 32px;
+  letter-spacing: 3px;
+  text-align: left;
+  margin-top: 25%;
+  
+  
+}
+
+.dollar2 { 
+  font-family: "Ultra", serif;
+  width: 53px;
+height: 48px;
+margin-left: 20px;
+font-size: 40px;
+font-weight: 700;
+line-height: 48px;
+text-align: right;
+
 }
